@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Natasha Jones
+- Photo:
+- Location: UK
+- Bio: Student
+- Github: https://github.com/naxjns
